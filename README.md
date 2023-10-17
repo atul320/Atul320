@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **bhardwajatul320@gmail.com**
 
-- 📄 Know about my experiences [Atul_Bhardwaj_resume.pdf](https://github.com/atul320/atul/blob/project/Atul_Bhardwaj_resume.pdf)
+- 📄 Know about my experiences [Atul Bhardwaj resume.pdf](https://github.com/atul320/atul/blob/project/Atul_Bhardwaj_resume.pdf)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
