@@ -1,18 +1,86 @@
-<h1 align="center">Hi 👋, I'm Atul Bhardwaj</h1>
-<h3 align="center">A passionate frontend developer Who Also loves to murmer with guitar</h3>
+<!DOCTYPE html>
+<html>
 
-- 🌱 I’m currently learning **Php,Next.js and D3.js data visualization**
+<head>
+  <title>Atul Bhardwaj - Frontend Developer</title>
+</head>
 
-- 👯 I’m looking to collaborate on **React.js project**
+<body>
+  <h1 align="center">Hi&nbsp;👋,&nbsp;I'm Atul Bhardwaj</h1>
+  <h3 align="center">A passionate frontend developer who also loves to tinker with a guitar</h3>
 
-- 📫 How to reach me **bhardwajatul320@gmail.com**
+  <ul>
+    <li>🌱 I’m currently learning <strong>PHP, Next.js, and D3.js data visualization</strong></li>
+    <li>👯 I’m looking to collaborate on <strong>React.js projects</strong></li>
+    <li>📫 How to reach me <strong><a href="mailto:bhardwajatul320@gmail.com">bhardwajatul320@gmail.com</a></strong></li>
+    <li>📄 Know about my experiences <strong><a
+        href="https://github.com/atul320/Atul320/blob/master/Atul_Bhardwaj_resume%20(2).pdf" target="_blank">Atul Bhardwaj resume.pdf</a></strong>
+    </li>
+  </ul>
 
-- 📄 Know about my experiences [Atul Bhardwaj resume.pdf](https://github.com/atul320/Atul320/blob/master/Atul_Bhardwaj_resume%20(2).pdf)
+  <h3 align="left">Connect with me:</h3>
+  <p align="left">
+    <span>
+      <img align="center"
+        src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
+        alt="LinkedIn" height="30" width="40" />
+    </span>
+  </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/atul-bhardwaj-40041a1aa" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/atul-bhardwaj-40041a1aa" height="30" width="40" /></a>
-</p>
+  <h3 align="left">Languages and Tools:</h3>
+  <p align="left">
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"
+        height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/c/c-original.svg" alt="C" width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
+        height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40"
+        height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"
+        height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/javascript/javascript-original.svg" alt="JavaScript"
+        width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"
+        height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js"
+        width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="Postman" width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/react/react-original-wordmark.svg" alt="React.js" width="40"
+        height="40" />
+    </span>
+  </p>
+</body>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+</html>
