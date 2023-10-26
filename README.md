@@ -2,7 +2,6 @@
 <html>
 
 <head>
-  <title>Atul Bhardwaj - Frontend Developer</title>
 </head>
 
 <body>
