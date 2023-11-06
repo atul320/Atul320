@@ -9,7 +9,7 @@
   <h3 align="center">A passionate frontend developer who also loves to tinker with a guitar</h3>
 
   <ul>
-    <li>🌱 I’m currently learning <strong>PHP, Next.js, and D3.js data visualization</strong></li>
+<!--     <li>🌱 I’m currently learning <strong>PHP, Next.js, and D3.js data visualization</strong></li> -->
     <li>👯 I’m looking to collaborate on <strong>React.js projects</strong></li>
     <li>📫 How to reach me <strong><a href="mailto:bhardwajatul320@gmail.com">bhardwajatul320@gmail.com</a></strong></li>
     <li>📄 Know about my experiences <strong><a
