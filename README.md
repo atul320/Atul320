@@ -21,8 +21,9 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <span>
-      <a href="https://www.linkedin.com/in/atul-bhardwaj-40041a1aa/"></a>
+      <a></a>
       <img align="center"
+        href="https://www.linkedin.com/in/atul-bhardwaj-40041a1aa/"
         src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
         alt="LinkedIn" height="30" width="40" />
     </span>
