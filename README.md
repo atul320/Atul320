@@ -21,10 +21,10 @@
   <h3 align="left">Connect with me:</h3>
   <p align="left">
     <span>
+      <a href="https://www.linkedin.com/in/atul-bhardwaj-40041a1aa/"></a>
       <img align="center"
         src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg"
         alt="LinkedIn" height="30" width="40" />
-      <a href="https://www.linkedin.com/in/atul-bhardwaj-40041a1aa/"></a>
     </span>
   </p>
 
