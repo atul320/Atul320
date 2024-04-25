@@ -64,6 +64,11 @@
     </span>
     &nbsp;
     <span>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/php/php-original.svg" alt="PHP"
+    width="40" height="40" />
+</span>
+    &nbsp;
+    <span>
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"
         height="40" />
     </span>
