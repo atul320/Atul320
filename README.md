@@ -35,10 +35,10 @@
         height="40" />
     </span>
     &nbsp;
-    <span>
+<!--     <span>
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/c/c-original.svg" alt="C" width="40" height="40" />
     </span>
-    &nbsp;
+    &nbsp; -->
     <span>
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
         height="40" />
