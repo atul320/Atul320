@@ -31,14 +31,24 @@
   <h3 align="left">Languages and Tools:</h3>
   <p align="left">
     <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/java/java-original.svg" alt="Java" width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/javascript/javascript-original.svg" alt="JavaScript"
+        width="40" height="40" />
+    </span>
+    &nbsp;
+    <span>
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/python/python-original.svg" alt="Python"
+    width="40" height="40" />
+</span>
+    &nbsp;
+    <span>
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40"
         height="40" />
     </span>
     &nbsp;
-<!--     <span>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/c/c-original.svg" alt="C" width="40" height="40" />
-    </span>
-    &nbsp; -->
     <span>
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40"
         height="40" />
@@ -53,20 +63,6 @@
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40"
         height="40" />
     </span>
-    &nbsp;
-    <span>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/java/java-original.svg" alt="Java" width="40" height="40" />
-    </span>
-    &nbsp;
-    <span>
-      <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/javascript/javascript-original.svg" alt="JavaScript"
-        width="40" height="40" />
-    </span>
-    &nbsp;
-    <span>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/python/python-original.svg" alt="Python"
-    width="40" height="40" />
-</span>
     &nbsp;
     <span>
       <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40"
