@@ -64,7 +64,7 @@
     </span>
     &nbsp;
     <span>
-  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/php/php-original.svg" alt="PHP"
+  <img src="https://cdn.jsdelivr.net/npm/devicon@2.10.1/icons/python/python-original.svg" alt="Python"
     width="40" height="40" />
 </span>
     &nbsp;
